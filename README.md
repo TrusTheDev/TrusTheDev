@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Trusty Patient Manager](https://github.com/TrusTheDev/Patient-Manager)
 
-- 📝 I regularly write articles on [https://hashnode.com/@TrustyDev](https://hashnode.com/@TrustyDev)
+- 📝 I rarely write articles on [https://hashnode.com/@TrustyDev](https://hashnode.com/@TrustyDev)
 
 - 💬 Ask me about **C#,Kotlin**
 
