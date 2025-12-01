@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trusthedev&show_icons=true&locale=en&layout=compact" alt="trusthedev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trusthedev&show_icons=true&locale=en" alt="trusthedev" /></p>
-
 
