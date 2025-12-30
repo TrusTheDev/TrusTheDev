@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trusthedev" alt="trusthedev" /></a> </p>
 
-- 🔭 I’m currently maintaining my private projects
+- 🔭 I’m currently studiying flutter
 
 - 📝 I rarely write articles on [https://hashnode.com/@TrustyDev](https://hashnode.com/@TrustyDev)
 
-- 💬 Ask me about **C#,Kotlin**
+- 💬 Ask me about **C#,Java,Flutter?*
 
 - 📫 How to reach me **trusthedev@gmail.com**
 
