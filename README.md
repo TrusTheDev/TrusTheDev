@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trusthedev" alt="trusthedev" /></a> </p>
 
-- 🔭 I’m currently studying Kotlin 
+- 🔭 I’m currently studying... 
 
 - 📝 I rarely write articles on [https://hashnode.com/@TrustyDev](https://hashnode.com/@TrustyDev)
 
